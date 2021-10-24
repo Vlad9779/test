@@ -1,0 +1,271 @@
+.container-fluid {
+    background-color: #32656A;
+    height: 110px;
+}
+body{
+    background-color: #FAFAFA;
+
+}
+
+.navbar-brand > img {
+    display: block;
+    padding-top: 8px;
+}
+.slide2{
+    margin-left: 134px;
+}
+.slide3{
+    margin-left: 75px;
+}
+.slide1{
+    margin-left: 38px;
+}
+.function {
+    margin-top: 35px;
+    left: 1350px;
+}
+
+.form-group.form-control {
+    width: 760px;
+    height: 56px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.fa-heart:before {
+    content: "\f004";
+    /* border: none; */
+    color: orange;
+}
+
+input {
+    width: 780px;
+}
+
+.popup-bg {
+
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    transition: all 1s linear;
+}
+.servise{
+    margin-left: auto;
+}
+.btn-default {
+    color: #333;
+    background-color: orange;
+    border-color: #ccc;
+    height: 56px;
+    width: 54px;
+    margin-left: -54px;
+    margin-top: 18px;
+}
+
+.fa-user:before {
+    content: "\f007";
+    color: orange;
+}
+
+.fa-shopping-cart {
+    color: orange;
+}
+
+.far fa-heart {
+    color: orange;
+}
+.news{
+    text-align: center;
+}
+
+.like {
+    background-color: #32656A;
+    border: none;
+
+}
+
+.shopping-cart {
+    background-color: #32656A;
+    border: none;
+
+}
+
+.open-popup {
+    background-color: #32656A;
+    border: none;
+}
+
+.hidden {
+    display: none;
+}
+
+.visually-hidden {
+    opacity: 0;
+}
+
+input:focus:invalid {
+    box-shadow: none;
+}
+
+#login-form.submitted input:invalid {
+    box-shadow: 0 0 5px 1px red;
+}
+
+#login-form {
+    margin-left: 37px;
+    border-radius: 20px;
+}
+
+#login-form .row {
+    border-radius: 20px;
+}
+
+.fa-times:before {
+    content: "\f00d";
+    margin-left: 387px;
+}
+
+#login-email {
+    border: solid #000000;
+    height: 57px;
+    width: 320px;
+
+}
+
+.login {
+    color: #232323;
+    background: transparent;
+    border: 1px solid #232323;
+    position: relative;
+    font-size: 14px;
+    letter-spacing: .3em;
+    font-family: 'Montserrat', sans-serif;
+    padding: 17px 34px 17px 39px;
+    transition: .2s ease-in-out;
+    cursor: pointer;
+}
+
+.login:before {
+    content: "";
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 100%;
+    height: 100%;
+    background: #32D4E2;
+    z-index: -1;
+    transition: .25s ease;
+    transform: translate(0, 0);
+}
+
+.login:hover:before {
+    transform: translate(4px, 4px);
+}
+
+#login-password {
+    height: 57px;
+    border: solid #000000;
+    width: 320px;
+}
+
+.popup {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 400px;
+    background: white;
+    transform: translate(-50%, -50%);
+    padding-top: 60px;
+}
+
+.carousel-banner {
+    background-color: #FAFAFA;
+}
+
+.carousel-inner {
+    background-color: #FAFAFA;
+}
+
+.close-popup {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+}
+
+section {
+    background-color: #FAFAFA;
+}
+
+.function {
+    margin-left: 400px;
+}
+
+#login-email {
+
+}
+
+.shop h2 {
+    text-align: center;
+}
+
+.shop p {
+    text-align: center;
+
+}
+
+img {
+    padding: 5px;
+}
+
+.deals h2 {
+    text-align: center;
+}
+
+.img-circle {
+    border-radius: 50%;
+    background-color: gray;
+}
+
+.icon-product {
+    width: 290px;
+    height: 400px;
+    background-color: white;
+}
+
+.icon-product a {
+    padding-left: 15px;
+
+}
+
+.deals p {
+    font-size: 23px;
+}
+
+section .news {
+    text-align: center;
+}
+
+footer {
+    background-color: #FAFAFA;
+}
+
+.qwe {
+    position: absolute;
+    margin-top: -76px;
+    width: 375px;
+    margin-left: 14px;
+    height: 125px;
+    background-color: white;
+    border: solid black;
+}
+
+.qwe h4 p {
+    width: 332px;
+    text-align: center;
+}
+
+data {
+    position: absolute;
+}
+
